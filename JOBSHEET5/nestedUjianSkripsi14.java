@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifElseCetakKRS14 {
+public class nestedUjianSkripsi14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
