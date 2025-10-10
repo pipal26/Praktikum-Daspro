@@ -9,7 +9,7 @@ public class ifElsePerpus14 {
         System.out.print("Apakah Anda sudah melakukan Registrasi Online (Ya/Tidak)? ");
         String registrasi = scanner.nextLine().trim().toLowerCase();
 
-        if (ktm.equalsIgnoreCase("ya") || registrasi.equalsIgnoreCase("ya")) {
+        if (kartuPerpus.equalsIgnoreCase("ya") || registrasi.equalsIgnoreCase("ya")) {
             System.out.println("Diizinkan masuk");
         } else {
             System.out.println("Ditolak masuk");
