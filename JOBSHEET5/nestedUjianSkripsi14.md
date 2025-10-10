@@ -4,5 +4,5 @@ Mengapa demikian?
 3. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? Jelaskan secara
 runtut untuk semua kondisi!
 jawaban
-1. program akan
+1. program tetap berjalan karena adanya .trim()
 2. 

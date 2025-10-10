@@ -5,7 +5,7 @@ public class nestedUjianSkripsi14 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Apakah mahasiswa sudah bebas kompen? (ya/tidak): ");
-        string bebasKompen = sc.nextLine().trim();
+        String bebasKompen = sc.nextLine().trim();
 
         System.out.println("Masukkan jumlah log bimbingan Pembimbing 1");
         int Bimbingan1 = sc.nextInt();
@@ -29,3 +29,5 @@ public class nestedUjianSkripsi14 {
         }
     }
 }
+    
+
